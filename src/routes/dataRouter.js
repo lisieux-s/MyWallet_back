@@ -1,0 +1,1 @@
+import { getEntries, deleteEntry, updateEntry } from "../controllers/dataController";
